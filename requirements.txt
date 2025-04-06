@@ -1,0 +1,6 @@
+streamlit
+moviepy
+pdf2image
+Pillow
+
+# Trigger rebuild
